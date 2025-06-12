@@ -13,10 +13,6 @@ Welcome to the ultimate medical imaging project! This notebook leverages the pow
   - Segment Anything Model (SAM)
   - PyTorch, OpenCV, Matplotlib, PIL
   - Kaggle Datasets
-- **Demo Video:** <video src="Yolo.mp4" controls width="600" poster="https://img.youtube.com/vi/YOUR_THUMBNAIL_ID/0.jpg">
-  Your browser does not support the video tag.
-</video>
-
 ---
 
 ## ✨ Features
@@ -33,7 +29,7 @@ Welcome to the ultimate medical imaging project! This notebook leverages the pow
 
 1. **Clone this repo & open the notebook:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ahmed2231web/Brain-tumor-detection.git
    cd Yolo
    jupyter notebook CB_01.ipynb
    ```
