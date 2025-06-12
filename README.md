@@ -52,9 +52,6 @@ Welcome to the ultimate medical imaging project! This notebook leverages the pow
 4. **Run all cells:**
    - The notebook will guide you through dataset download, model training, and inference.
 
-5. **Watch the magic:**
-   - Check out the results and the [Yolo.mp4](./Yolo.mp4) video for a project demo! 🎬
-
 ---
 
 ## 🗂️ Project Structure
@@ -62,7 +59,6 @@ Welcome to the ultimate medical imaging project! This notebook leverages the pow
 ```
 Yolo/
 ├── CB_01.ipynb        # Main Jupyter notebook (run this!)
-├── Yolo.mp4           # Demo video
 ├── .venv/             # (Optional) Python virtual environment
 └── ...                # Other files/folders
 ```
@@ -85,9 +81,6 @@ Yolo/
 
 5. **Visualization**  
    🖼️ Displays original, detected, and segmented images side by side.
-
-6. **Demo Video**  
-   🎥 See [Yolo.mp4](./Yolo.mp4) for a walkthrough!
 
 ---
 
